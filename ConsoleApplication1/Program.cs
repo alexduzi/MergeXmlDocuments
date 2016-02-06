@@ -48,11 +48,11 @@ namespace ConsoleApplication1
     public static List< XmlDocsInformations > LoadFilesPath( )
     {
       List< XmlDocsInformations >    files = new List<XmlDocsInformations>( );
-      string []                      filesTarget = System.IO.Directory.GetFiles( Path.Combine( Directory.GetCurrentDirectory(), "008622415_14_Sittel") );
+      string []                      filesTarget = System.IO.Directory.GetFiles( Path.Combine( Environment.CurrentDirectory, "008622415_14_Sittel") );
       string                         fileTarget  = string.Empty;
       XmlDocsInformations            xmlDocInfo;
 
-      foreach ( string fileSource in System.IO.Directory.GetFiles( Path.Combine( Directory.GetCurrentDirectory(), "000699816_1_Sittel" ) ) )
+      foreach ( string fileSource in System.IO.Directory.GetFiles( Path.Combine( Environment.CurrentDirectory, "000699816_1_Sittel" ) ) )
       {
         xmlDocInfo = new XmlDocsInformations();
 

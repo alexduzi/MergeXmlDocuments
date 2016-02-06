@@ -41,11 +41,11 @@ namespace ConsoleApplication1
         docTarget.Root.FirstNode.AddAfterSelf( nodeSource );
       }
 
-      DeleteMergedDoc ( Path.Combine( Directory.GetCurrentDirectory(), "MergedDoc", docInfo.MergedFileName ) );
+      DeleteMergedDoc ( Path.Combine( Environment.CurrentDirectory, "MergedDoc", docInfo.MergedFileName ) );
 
       Console.WriteLine ( "Generating the merged file {0} ...", docInfo.MergedFileName );
 
-      docTarget.Save  ( Path.Combine( Directory.GetCurrentDirectory(), "MergedDoc", docInfo.MergedFileName ) );
+      docTarget.Save  ( Path.Combine( Environment.CurrentDirectory, "MergedDoc", docInfo.MergedFileName ) );
     }
 
     /// <summary>
