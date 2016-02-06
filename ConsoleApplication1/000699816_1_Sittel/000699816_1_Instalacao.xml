@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<a:instalacoes xmlns:a="http://asspaweb.pgr.mpf.gov.br/sittel/schemas/instalacoes" xmlns:sittel="http://asspaweb.pgr.mpf.gov.br/sittel/schemas/sittel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://asspaweb.pgr.mpf.gov.br/sittel/schemas/instalacoes instalacoes-1.0.xsd">
+  <instalacao>
+    <numeroTerminal>5591987581091</numeroTerminal>
+    <tipoEndereco>1</tipoEndereco>
+    <endereco>SAO JOSE RODOVIA BR 316 284 17</endereco>
+    <bairro>INDISPONÍVEL</bairro>
+    <municipio>MARITUBA</municipio>
+    <uf>PA</uf>
+    <cep>67200970</cep>
+    <dataInicio>24032015</dataInicio>
+    <dataFim>21102015</dataFim>
+  </instalacao>
+  <instalacao>
+    <numeroTerminal>5591987331483</numeroTerminal>
+    <tipoEndereco>1</tipoEndereco>
+    <endereco>PINTO MARQUES 0 </endereco>
+    <bairro>INDISPONÍVEL</bairro>
+    <municipio>BELEM</municipio>
+    <uf>PA</uf>
+    <cep>66615880</cep>
+    <dataInicio>23032015</dataInicio>
+  </instalacao>
+	<instalacao>
+    <numeroTerminal>5591987581091</numeroTerminal>
+    <tipoEndereco>1</tipoEndereco>
+    <endereco>SAO JOSE RODOVIA BR 316 284 17</endereco>
+    <bairro>INDISPONÍVEL</bairro>
+    <municipio>MARITUBA</municipio>
+    <uf>PA</uf>
+    <cep>67200970</cep>
+    <dataInicio>24032015</dataInicio>
+    <dataFim>21102015</dataFim>
+  </instalacao>
+  <instalacao>
+    <numeroTerminal>5591988511141</numeroTerminal>
+    <tipoEndereco>1</tipoEndereco>
+    <endereco>SAO JOSE RODOVIA BR 316 284 17</endereco>
+    <bairro>INDISPONÍVEL</bairro>
+    <municipio>MARITUBA</municipio>
+    <uf>PA</uf>
+    <cep>67200970</cep>
+    <dataInicio>01012015</dataInicio>
+  </instalacao>
+  <instalacao>
+    <numeroTerminal>555185930339</numeroTerminal>
+    <tipoEndereco>1</tipoEndereco>
+    <endereco>INDISPONÍVEL</endereco>
+    <bairro>SAO GERALDO</bairro>
+    <municipio>INDISPONÍVEL</municipio>
+    <uf>INDISPONÍVEL</uf>
+    <cep>INDISPONÍVEL</cep>
+    <dataInicio>28082012</dataInicio>
+    <dataFim>27102015</dataFim>
+  </instalacao>
+  <instalacao>
+    <numeroTerminal>5517988117549</numeroTerminal>
+    <tipoEndereco>1</tipoEndereco>
+    <endereco>INDISPONÍVEL</endereco>
+    <bairro>JARDIM AMERICA</bairro>
+    <municipio>INDISPONÍVEL</municipio>
+    <uf>INDISPONÍVEL</uf>
+    <cep>INDISPONÍVEL</cep>
+    <dataInicio>23042014</dataInicio>
+    <dataFim>16092015</dataFim>
+  </instalacao>
+</a:instalacoes>

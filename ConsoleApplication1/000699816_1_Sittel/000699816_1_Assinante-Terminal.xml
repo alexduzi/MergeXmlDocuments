@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<a:assinantesTerminais xmlns:a="http://asspaweb.pgr.mpf.gov.br/sittel/schemas/assinante-terminal" xmlns:sittel="http://asspaweb.pgr.mpf.gov.br/sittel/schemas/sittel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://asspaweb.pgr.mpf.gov.br/sittel/schemas/assinante-terminal assinante-terminal-1.0.xsd">
+  <assinanteTerminal>
+    <cpfCnpj>00687571235</cpfCnpj>
+    <tipo>M</tipo>
+    <numero>5591987581091</numero>
+    <dataInicio>27022015</dataInicio>
+    <dataFim>21102015</dataFim>
+  </assinanteTerminal>
+  <assinanteTerminal>
+    <cpfCnpj>00477643256</cpfCnpj>
+    <tipo>M</tipo>
+    <numero>5591987331483</numero>
+    <dataInicio>07102014</dataInicio>
+  </assinanteTerminal>
+	<assinanteTerminal>
+    <cpfCnpj>00687571235</cpfCnpj>
+    <tipo>M</tipo>
+    <numero>5591987581091</numero>
+    <dataInicio>27022015</dataInicio>
+    <dataFim>21102015</dataFim>
+  </assinanteTerminal>
+  <assinanteTerminal>
+    <cpfCnpj>00687571235</cpfCnpj>
+    <tipo>M</tipo>
+    <numero>5591988511141</numero>
+    <dataInicio>07122012</dataInicio>
+  </assinanteTerminal>
+  <assinanteTerminal>
+    <cpfCnpj>10158691000100</cpfCnpj>
+    <tipo>M</tipo>
+    <numero>555185930339</numero>
+    <dataInicio>28012011</dataInicio>
+    <dataFim>15062015</dataFim>
+  </assinanteTerminal>
+  <assinanteTerminal>
+    <cpfCnpj>17400050000169</cpfCnpj>
+    <tipo>M</tipo>
+    <numero>5517988117549</numero>
+    <dataInicio>10052014</dataInicio>
+  </assinanteTerminal>
+</a:assinantesTerminais>

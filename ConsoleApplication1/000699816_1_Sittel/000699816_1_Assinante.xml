@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<a:assinantes xmlns:a="http://asspaweb.pgr.mpf.gov.br/sittel/schemas/assinante" xmlns:sittel="http://asspaweb.pgr.mpf.gov.br/sittel/schemas/sittel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://asspaweb.pgr.mpf.gov.br/sittel/schemas/assinante assinante-1.0.xsd">
+  <assinante>
+    <cpfCnpj>00687571235</cpfCnpj>
+    <nome>WALKIR PINTO CARDOSO NETO</nome>
+    <tipo>1</tipo>
+  </assinante>
+  <assinante>
+    <cpfCnpj>00477643256</cpfCnpj> 
+    <nome>RAFAEL SILVA ATAIDE DE LIMA</nome>
+    <tipo>1</tipo>
+  </assinante>
+  <assinante>
+    <cpfCnpj>00687571235</cpfCnpj>
+    <nome>WALKIR PINTO CARDOSO NETO</nome>
+    <tipo>1</tipo>
+  </assinante>
+  <assinante>
+    <cpfCnpj>10158691000100</cpfCnpj>
+    <nome>SOLUTIVA SERVICOS DE TECNOLOGIA E INTERATIVIDADE L</nome>
+    <tipo>2</tipo>
+  </assinante>
+  <assinante>
+    <cpfCnpj>17400050000169</cpfCnpj>
+    <nome>MORATELLI &amp; MORATELLI RIO PRETO LTDA EPP</nome>
+    <tipo>2</tipo>
+  </assinante>
+</a:assinantes>

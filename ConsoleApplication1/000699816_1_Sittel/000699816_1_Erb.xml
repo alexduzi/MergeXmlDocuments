@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<a:erbs xmlns:a="http://asspaweb.pgr.mpf.gov.br/sittel/schemas/erb" 
+        xmlns:sittel="http://asspaweb.pgr.mpf.gov.br/sittel/schemas/sittel" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:schemaLocation="http://asspaweb.pgr.mpf.gov.br/sittel/schemas/erb erb-1.0.xsd">
+  <erb>
+    <cgi>72431012313021431</cgi>
+    <endereco>Av. Julio Cesar, s/n (em frente ao Aeroporto Internacional Val-de-Cans)</endereco>
+    <bairro>Val-de-Cans</bairro>
+    <municipio>BELEM</municipio>
+    <uf>PA</uf>
+    <pais>BR</pais>
+    <latitude>-1,391000000</latitude>
+    <longitude>-48,48100000</longitude>
+    <azimute>000</azimute>
+  </erb>
+  <erb>
+    <cgi>72431012320022061</cgi>
+    <endereco>ALAMEDA ESMERALDA, 5A</endereco>
+    <bairro>Coqueiro</bairro>
+    <municipio>ANANINDEUA</municipio>
+    <uf>PA</uf>
+    <pais>BR</pais>
+    <latitude>-1,364590000</latitude>
+    <longitude>-48,41076000</longitude>
+    <azimute>030</azimute>
+  </erb>
+  <erb>
+    <cgi>72431012500022069</cgi>
+    <endereco>ALAMEDA ESMERALDA, 5A</endereco>
+    <bairro>Coqueiro</bairro>
+    <municipio>ANANINDEUA</municipio>
+    <uf>PA</uf>
+    <pais>BR</pais>
+    <latitude>-1,364590000</latitude>
+    <longitude>-48,41076000</longitude>
+    <azimute>270</azimute>
+  </erb>
+  <erb>
+    <cgi>72431012321022123</cgi>
+    <endereco>Rod. BR - 316, Km 08, s/n (Maguari)</endereco>
+    <bairro>Centro</bairro>
+    <municipio>ANANINDEUA</municipio>
+    <uf>PA</uf>
+    <pais>BR</pais>
+    <latitude>-1,367890000</latitude>
+    <longitude>-48,37300000</longitude>
+    <azimute>290</azimute>
+  </erb>
+</a:erbs>
